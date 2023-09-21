@@ -1,0 +1,76 @@
+html, body {
+  background-image:url(https://c4.wallpaperflare.com/wallpaper/59/169/315/train-night-city-anime-wallpaper-preview.jpg);
+  margin: auto;
+  background-position: center;
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+h1 {
+  display:flex;
+  justify-content: center;
+  margin-top:50px;
+  color:white;
+  font-weight:700;
+  font-family: "Open Sans", Arial, sans-serif;
+} 
+.para {
+  color: white;
+  display:flex;
+  justify-content: center;
+  font-size:49px;
+  font-weight:600;
+  padding-top:0px;
+  line-height: 45px;
+}
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:13vh;
+  width: 20vh;
+}
+.btn-container {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+.btm {
+  font-weight: 300;
+  color:;
+  background-color: #4E4187;
+  border: none;
+  height:60px;
+  width: 200px;
+  border-radius:2.5%;
+  font-size: 20px;
+}
+.btm:hover {
+  background-color:#00c2fb;
+}
+.btm1:hover {
+  background-color:#00c2fb;
+}
+.contain {
+ /* opacity:0.5;*/
+  margin :10px;
+}
+.btm1 {
+  font-weight:300;
+  color: ;
+  background-color: #F4D35E;
+  border:none;
+  height:60px;
+  width: 200px;
+  border-radius:2.5%;
+  font-size: 20px;
+}
+.entry {
+  dispaly:flex;
+  color:white;
+  justify-content: center;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 25px;
+  font-weight:500;
+}
